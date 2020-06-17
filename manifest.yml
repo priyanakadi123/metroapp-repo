@@ -1,3 +1,4 @@
 applications:
 - name: metroapp
   memory: 128M
+  buildpack: java_buildpack
